@@ -1,0 +1,10 @@
+{
+  "name": "@timeclock/db",
+  "private": true,
+  "scripts": {
+    "prisma": "prisma",
+    "migrate:dev": "prisma migrate dev",
+    "migrate:deploy": "prisma migrate deploy",
+    "seed": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' packages/db/prisma/seed.ts"
+  }
+}

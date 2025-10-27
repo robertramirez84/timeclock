@@ -1,0 +1,137 @@
+[
+  {
+    "firstName": "Renee",
+    "lastName": "Martin",
+    "email": "gm@fourpointsdualbrand.com",
+    "pin4": "4321",
+    "role": "GM",
+    "departmentCode": "FD",
+    "birthDate": "1980-03-22"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Nguyen",
+    "email": "rm@fourpointsdualbrand.com",
+    "pin4": "9876",
+    "role": "REGIONAL_MANAGER",
+    "departmentCode": "FD",
+    "birthDate": "1978-07-12"
+  },
+  {
+    "firstName": "Ivy",
+    "lastName": "Ortiz",
+    "email": "fdmanager@fourpointsdualbrand.com",
+    "pin4": "1020",
+    "role": "MANAGER",
+    "departmentCode": "FD",
+    "birthDate": "1991-10-26"
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Lopez",
+    "email": "hkmanager@fourpointsdualbrand.com",
+    "pin4": "2244",
+    "role": "MANAGER",
+    "departmentCode": "HK",
+    "birthDate": "1985-06-05"
+  },
+  {
+    "firstName": "Brianna",
+    "lastName": "Cook",
+    "email": "shmanager@fourpointsdualbrand.com",
+    "pin4": "5566",
+    "role": "MANAGER",
+    "departmentCode": "SH",
+    "birthDate": "1990-09-17"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Reed",
+    "email": "mtmanager@fourpointsdualbrand.com",
+    "pin4": "7788",
+    "role": "MANAGER",
+    "departmentCode": "MT",
+    "birthDate": "1986-04-10"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Diaz",
+    "email": "rsmanager@fourpointsdualbrand.com",
+    "pin4": "8899",
+    "role": "MANAGER",
+    "departmentCode": "RS",
+    "birthDate": "1987-01-14"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Wright",
+    "email": "fd1@fourpointsdualbrand.com",
+    "pin4": "1111",
+    "role": "EMPLOYEE",
+    "departmentCode": "FD",
+    "birthDate": "1999-05-19"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Kim",
+    "email": "fd2@fourpointsdualbrand.com",
+    "pin4": "2222",
+    "role": "EMPLOYEE",
+    "departmentCode": "FD",
+    "birthDate": "2001-10-26"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Santos",
+    "email": "hk1@fourpointsdualbrand.com",
+    "pin4": "3333",
+    "role": "EMPLOYEE",
+    "departmentCode": "HK",
+    "birthDate": "1994-11-03"
+  },
+  {
+    "firstName": "Amina",
+    "lastName": "Ali",
+    "email": "hk2@fourpointsdualbrand.com",
+    "pin4": "4444",
+    "role": "EMPLOYEE",
+    "departmentCode": "HK",
+    "birthDate": "1992-02-09"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Patel",
+    "email": "sh1@fourpointsdualbrand.com",
+    "pin4": "5555",
+    "role": "EMPLOYEE",
+    "departmentCode": "SH",
+    "birthDate": "1993-12-29"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Price",
+    "email": "mt1@fourpointsdualbrand.com",
+    "pin4": "6666",
+    "role": "EMPLOYEE",
+    "departmentCode": "MT",
+    "birthDate": "1991-08-08"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Ng",
+    "email": "rs1@fourpointsdualbrand.com",
+    "pin4": "7777",
+    "role": "EMPLOYEE",
+    "departmentCode": "RS",
+    "birthDate": "2000-10-26"
+  },
+  {
+    "firstName": "Jamal",
+    "lastName": "Brown",
+    "email": "rs2@fourpointsdualbrand.com",
+    "pin4": "8080",
+    "role": "EMPLOYEE",
+    "departmentCode": "RS",
+    "birthDate": "1998-07-30"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "code": "HK",
+    "name": "Housekeeping"
+  },
+  {
+    "code": "FD",
+    "name": "Front Desk"
+  },
+  {
+    "code": "SH",
+    "name": "Shuttle Drivers"
+  },
+  {
+    "code": "MT",
+    "name": "Maintenance"
+  },
+  {
+    "code": "RS",
+    "name": "Restaurant"
+  }
+]

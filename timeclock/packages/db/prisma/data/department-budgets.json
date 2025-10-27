@@ -1,0 +1,27 @@
+[
+  {
+    "departmentCode": "FD",
+    "budgetHours": 680,
+    "budgetPay": 11220
+  },
+  {
+    "departmentCode": "HK",
+    "budgetHours": 1240,
+    "budgetPay": 18600
+  },
+  {
+    "departmentCode": "SH",
+    "budgetHours": 420,
+    "budgetPay": 6720
+  },
+  {
+    "departmentCode": "MT",
+    "budgetHours": 360,
+    "budgetPay": 6480
+  },
+  {
+    "departmentCode": "RS",
+    "budgetHours": 800,
+    "budgetPay": 12000
+  }
+]

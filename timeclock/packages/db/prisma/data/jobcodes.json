@@ -1,0 +1,56 @@
+[
+  {
+    "code": "HK-RA",
+    "title": "Room Attendant",
+    "basePayRate": 14.0,
+    "departmentCode": "HK"
+  },
+  {
+    "code": "HK-INS",
+    "title": "Housekeeping Inspector",
+    "basePayRate": 16.0,
+    "departmentCode": "HK"
+  },
+  {
+    "code": "FD-AGT",
+    "title": "Front Desk Agent",
+    "basePayRate": 15.0,
+    "departmentCode": "FD"
+  },
+  {
+    "code": "FD-SPV",
+    "title": "Front Desk Supervisor",
+    "basePayRate": 17.5,
+    "departmentCode": "FD"
+  },
+  {
+    "code": "SH-DRV",
+    "title": "Shuttle Driver",
+    "basePayRate": 16.0,
+    "departmentCode": "SH"
+  },
+  {
+    "code": "MT-TECH",
+    "title": "Maintenance Tech",
+    "basePayRate": 18.0,
+    "departmentCode": "MT"
+  },
+  {
+    "code": "RS-SRV",
+    "title": "Server (Base)",
+    "basePayRate": 5.0,
+    "departmentCode": "RS"
+  },
+  {
+    "code": "RS-COOK",
+    "title": "Cook",
+    "basePayRate": 16.0,
+    "departmentCode": "RS"
+  },
+  {
+    "code": "RS-BAR",
+    "title": "Bartender (Base)",
+    "basePayRate": 6.0,
+    "departmentCode": "RS"
+  }
+]

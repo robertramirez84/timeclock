@@ -1,0 +1,17 @@
+// NOTE: This is a placeholder schema. Replace with your full Prisma schema before running migrations.
+datasource db { provider = "postgresql" url = env("DATABASE_URL") }
+generator client { provider = "prisma-client-js" }
+
+model Department { id String @id @default(cuid()) code String @unique name String
+  JobCode JobCode[] EmployeeProfile EmployeeProfile[] DepartmentBudget DepartmentBudget[]
+}
+model JobCode { id String @id @default(cuid()) code String @unique title String basePayRate Float departmentId String Department Department @relation(fields: [departmentId], references: [id])}
+model EmployeeProfile { id String @id @default(cuid()) email String @unique firstName String lastName String pin4 String role String departmentId String birthDate DateTime Department Department @relation(fields: [departmentId], references: [id])}
+model KioskDevice { id String @id name String deviceKey String @unique isActive Boolean @default(true) lastSeenAt DateTime? createdAt DateTime @default(now()) }
+model OrgSetting { key String @id value String }
+model DepartmentBudget { id String @id @default(cuid()) departmentId String periodStart DateTime periodEnd DateTime budgetHours Int budgetPay Float Department Department @relation(fields: [departmentId], references: [id])
+  @@unique([departmentId, periodStart, periodEnd])
+}
+model PayPeriod { id String @id @default(cuid()) startDate DateTime endDate DateTime status String
+  @@unique([startDate, endDate])
+}

@@ -1,0 +1,12 @@
+{
+  "name": "timeclock-monorepo",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev:api": "pnpm --filter @timeclock/api dev",
+    "dev:kiosk": "pnpm --filter @timeclock/kiosk-desktop dev",
+    "dev:mobile": "pnpm --filter @timeclock/mobile start",
+    "db:migrate": "pnpm --filter @timeclock/db prisma migrate dev",
+    "db:seed": "pnpm --filter @timeclock/db prisma db seed"
+  }
+}

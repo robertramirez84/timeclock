@@ -1,0 +1,12 @@
+[
+  {
+    "id": "FD-KIOSK-01",
+    "name": "FrontDesk\u2011K1",
+    "deviceKey": "fdk1_9c6a1b19"
+  },
+  {
+    "id": "HK-KIOSK-01",
+    "name": "Housekeeping\u2011K1",
+    "deviceKey": "hkk1_3f72c4ac"
+  }
+]
